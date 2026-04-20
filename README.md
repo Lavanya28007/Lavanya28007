@@ -1,30 +1,108 @@
-<h1 align="center">Hi 👋, I'm Lavanya Sahni</h1>
-<h3 align="center">Welcome to My Code Playground👋</h3>
+<!-- 🔥 Typing Animation Header -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lavanya28007&label=Profile%20views&color=0e75b6&style=flat" alt="lavanya28007" /> </p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Lavanya+Sahni+👋;Frontend+%26+Full+Stack+Developer;MERN+Stack+Enthusiast+🚀;Open+Source+Contributor" />
+</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lavanya28007" alt="lavanya28007" /></a> </p>
+<h3 align="center">Building scalable web apps & growing through open source 💻✨</h3>
 
-- 🌱 I’m currently learning **React, Next.js, MongoDB, Tailwind CSS, and modern web development best practices.**
+---
 
-- 💬 Ask me about **JavaScript, React, Next.js, frontend performance, responsive design, and building modern web apps.**
-
-- 📫 How to reach me **lavanyasahni208@outlook.com**
-
-- ⚡ Fun fact **I code best with music on, coffee in hand, and dark mode always—Python and Java are my go-to partners in crime.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lavanya sahni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lavanya sahni" height="30" width="40" /></a>
-<a href="https://instagram.com/lavanyasahni_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lavanyasahni_28" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lavanya28007&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
+## 👩‍💻 About Me
 
+* 🎓 BCA Final Year Student
+* 💻 Focus: **Frontend + Full Stack (MERN)**
+* 🚀 Open Source Contributor
+* 🌱 Learning: **Next.js, System Design, Backend Scaling**
+* 🎯 Goal: **SDE Intern → Software Engineer**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lavanya28007&show_icons=true&locale=en" alt="lavanya28007" /></p>
+---
 
+## 🧠 What I Bring
 
+✔ Clean & responsive UI development
+✔ REST API integration & backend logic
+✔ Real-world project building
+✔ Collaboration through open source
 
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,java,python,c,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Gitlytics
+
+📊 GitHub Developer Analytics Platform
+→ Analyze developer profiles & activity using GitHub API
+
+---
+
+### 🔹 MeetScribe
+
+🧠 AI-powered meeting assistant
+→ Generates summaries, action items & insights
+
+---
+
+### 🔹 Pokédex (Next.js)
+
+⚡ SEO-optimized SSR project
+→ Dynamic Pokémon pages using PokéAPI
+
+---
+
+## 🤝 Open Source Contributions
+
+* 🔸 Codify → UI & feature improvements
+* 🔸 Build-on-Coffee → Developer resource enhancements
+* 🔸 Neonest → Fixes & optimizations
+* 🔸 Eventra → Full-stack contributions
+* 🔸 Research Paper Organizer → Beginner-friendly contributions
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lavanya28007&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=lavanya28007&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya28007&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+<a href="www.linkedin.com/in/lavanya-sahni">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="mailto:lavanyasahni203@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+I build better code with 🎧 music, ☕ coffee, and 🌙 dark mode — turning ideas into real-world applications.
+
+---
+
+⭐ *Focused on growth, consistency, and becoming a strong software engineer.*
